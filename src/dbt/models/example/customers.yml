@@ -1,0 +1,5 @@
+version: 2
+
+sources:
+  - name: customers
+    description: One record per customer
